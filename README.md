@@ -8,8 +8,6 @@
 
 🚀 Helping agencies, startups, and enterprises architect scalable applications, implement modern AI solutions, and deliver cloud-native products with speed and quality.
 
----
-
 ### 🧠 What I Do
 
 - **Full-Stack Development:** Architecting applications using `Node.js`, `React.js`, `Vue.js`, `Angular.js` with clean code, modular design, and scalable patterns.
@@ -18,52 +16,16 @@
 - **Cloud & DevOps:** Building and deploying modern applications on AWS, GCP, and Azure with CI/CD pipelines and infrastructure-as-code.
 - **Consulting & Delivery:** Working closely with CTOs and founders to drive tech strategy, system architecture, and build teams.
 
----
-
 ### 🛠️ Tech Stack
 
-**Languages & Frameworks**  
-`JavaScript/TypeScript` · `Python` · `Node.js` · `React.js` · `Vue.js` · `Angular.js` · `Express.js` · `Next.js` · `Flask` · `FastAPI`
-
-**Databases**  
-`MongoDB` · `PostgreSQL` · `MySQL` · `SQLite` · `Redis` · `Elasticsearch`
-
-**AI/ML & Data Engineering**  
-`TensorFlow` · `scikit-learn` · `Pandas` · `NumPy` · `LangChain` · `OpenAI API` · `spaCy` · `HuggingFace Transformers`
-
-**Cloud & DevOps**  
-`AWS` · `GCP` · `Azure` · `Docker` · `Kubernetes` · `Terraform` · `CI/CD` · `GitHub Actions` · `Cloud Functions` · `Lambda`
-
-**Tools & Monitoring**  
-`Postman` · `Swagger` · `Grafana` · `Prometheus` · `Datadog` · `Jira` · `Notion` · `Neovim` · `Visual Studio Code`
-
----
-
-### 📌 Key Strengths
-
-- 🔹 End-to-End Product Ownership
-- 🔹 Rapid Prototyping & MVP Delivery
-- 🔹 AI-Driven Feature Integration
-- 🔹 Cross-Platform & Mobile Development
-- 🔹 Architecture & Codebase Audits
-- 🔹 On-Demand Tech Team Scaling
-
----
-
-### 📈 GitHub Insights
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)
-
----
+- __Languages:__ JavaScript/TypeScript, Python, Node.js, React.js, Vue.js, Angular.js
+- __Databases:__ MySQL, MongoDB, PostgreSQL, SQLite, Redis, Elasticsearch
+- __AI/ML & Data Engineering:__ TensorFlow, Pandas, NumPy, LangChain, OpenAI API
+- __Cloud & DevOps:__ AWS, GCP, Azure, Docker, Kubernetes, Terraform, CI/CD, GitHub Actions, Cloud Functions, Lambda
 
 ### 🤝 Let's Collaborate
 
 Looking to build your next product, enhance your platform, or integrate AI into your workflows?  
 I offer consulting, architecture, and hands-on development.
 
-📬 [Email Me](mailto:anandhansengundhar@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/andhansengundhar/) | 🌐 [Portfolio / Website](#)
-
----
-
-_"Simplicity is the soul of efficiency."_ – Austin Freeman
+✉️ [Email](mailto:anandhansengundhar@gmail.com) | 💬[LinkedIn](https://www.linkedin.com/in/andhansengundhar/)
